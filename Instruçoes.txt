@@ -1,0 +1,5 @@
+Comandos:
+• Seta esquerda - Diminui o framerate
+• Seta direita - Aumenta o framerate
+• Seta cima - Finaliza a sessão imediatamente
+• Tecla X - Coloca o treino no modo automático (avança a geração automaticamente)
